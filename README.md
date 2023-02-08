@@ -8,4 +8,4 @@
 - What words are associated with each other in the subject or language of wine?
 - Are there some wine varieties that have a more positive sentiment from wine critics, and are there some that tend to have a negative sentiment?
 
-### The data was sourced from a Kaggle dataset that scrapped over 130,000 reviews from Wine Enthusiast magazine.
+### The data was sourced from a Kaggle dataset that scrapped over 130,000 reviews from Wine Enthusiast magazine..
